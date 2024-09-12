@@ -1,0 +1,10 @@
+declare x = 10
+declare y = "Hello"
+displayln(x)
+displayln(y)
+if case x > 5 {
+    displayln("x is greater than 5")
+}
+otherwise {
+    displayln("x is not greater than 5")
+}
